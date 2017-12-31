@@ -10,8 +10,8 @@
 	Typography
 -------------------------------------------------------------------------------*/
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto%20Slab:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto%20Slab:300,400,500,600,700);
 
 p {
 	font-size: 14px;
@@ -34,7 +34,7 @@ h3 {
 h4 {
 	font-size: 18px;
 	color: #2d3033;
-	font-weight: 600;
+	font-weight: 700;
 	text-decoration: underline;
 }
 h5 {
